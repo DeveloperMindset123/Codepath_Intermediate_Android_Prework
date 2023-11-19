@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidStudioWebwork</string>
+    <string name="Intro">Hello There. My name is Ayan Das and I am a forever android user.</string>
+    <string name="your_web_client_id">176582266200-1vd1ipia42ipkvsl97dtf0hh63p3i89p.apps.googleusercontent.com</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_profile_activity.xml">ProfileActivity.xml</string>
+</resources>
